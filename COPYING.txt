@@ -1,0 +1,7 @@
+FreeMind 0.9.0 Portable
+Jan. 2, 2013
+Janne Cederberg, Finland
+=========================
+
+When copying this program to someone else,
+don't include the Settings folder.

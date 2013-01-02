@@ -1,0 +1,4 @@
+Requirements:
+-------------
+Java Runtime Environment (JRE) must be located in the
+path specified in FreeMindPortable.ini
