@@ -9,8 +9,8 @@ FreeMind Portable 0.9.0 launcher (32-bit)
 This is just a portable launcher for FreeMind. Does not contain an installer nor am I planning on making one.
 You can simply use the contents of this package as long as you specify Java location in FreeMindPortable.ini.
 
-The launcher was written using AutoIt, so in case you want to modify it and recompile it, grab yourself
-a copy of Autoit from autoitscript.com.
+The launcher was written using [AutoIt](http://www.autoitscript.com) which is a free
+automation tool and similar to [NSIS](http://nsis.sourceforge.net) in many regards.
 
 This launcher is provided AS IS without any warranty. You will use the launcher at your own risk.
 I have tested the launcher to work on Windows 7 Ultimate (64bit) and as it's a 32bit UPX-packed EXE
