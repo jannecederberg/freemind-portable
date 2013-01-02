@@ -1,10 +1,10 @@
 FreeMind Portable 0.9.0 launcher (32-bit)
 =========================================
 
-Author:  Janne Cederberg <janne.cederberg@gmail.com>, Finland
-Version: 0.1
-Date:    Jan. 2, 2013
-License: GPL
+* Author:  Janne Cederberg <janne.cederberg@gmail.com>, Finland
+* Version: 0.1
+* Date:    Jan. 2, 2013
+* License: GPL
 
 This is just a portable launcher for FreeMind. Does not contain an installer nor am I planning on making one.
 You can simply use the contents of this package as long as you specify Java location in FreeMindPortable.ini.
