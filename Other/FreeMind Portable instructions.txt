@@ -1,3 +1,0 @@
-Jouduin käyttämään -jar -lähestymistapaa Portable-version tekemiseen. Ks. FreeMindPortable.au3.
-
-2.1.2013, Janne Cederberg
